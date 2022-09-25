@@ -1,0 +1,63 @@
+/* body{
+    background: rgb(255,38,66);
+    background: linear-gradient(90deg, rgba(255,38,66,1) 0%, rgba(121,53,9,0) 52%, rgba(250,247,124,1) 100%);
+} */
+
+/* * body, html{
+    background: #fff url(https://images.unsplash.com/photo-1642763907630-17bad0853f15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80) center center/auto no-repeat;
+} */
+
+html { 
+    background: url(https://images.unsplash.com/photo-1568194157720-8bbe7114ebe8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+
+   h1, h2, ul, li, span{
+    color: white;
+  }
+
+ h1{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 50px;
+    font-weight: bold;
+ }
+
+ li{
+    list-style: none;
+    margin: 20px 0;
+ }
+
+ span{
+    font-size: 30px;
+    font-weight: bold;
+ }
+
+ h2{
+    font-size: 30px;
+    font-weight: bold;
+ }
+
+ #red1{
+color: yellow;
+ }
+
+ #red2{
+    color: yellow;
+ }
+ 
+ #red3{
+color: yellow;
+ }
+
+ #red4{
+    color: yellow;
+ }
+
+ #red5{
+    color: yellow;
+ }
